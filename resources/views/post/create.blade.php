@@ -34,6 +34,8 @@
 
                         <x-honeypot />
 
+
+
                         <button type="submit"
                             class="block mt-3 px-4 py-3 text-black  border border-gray-500 bg-indigo-500 rounded hover:bg-gray-600">POST</button>
                     </form>
